@@ -56,4 +56,8 @@ int main()
     ft_printf("%s\n", "toto");
     printf("%s\n", "toto");
     ft_printf("%s\n", NULL);
+<<<<<<< HEAD
 }*/
+=======
+}*/
+>>>>>>> 4f115545043e7060a69d44f97e350e4c182d2604
